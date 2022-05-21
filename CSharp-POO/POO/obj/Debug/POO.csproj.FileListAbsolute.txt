@@ -1,0 +1,8 @@
+C:\academia\POO\POO\bin\Debug\POO.exe.config
+C:\academia\POO\POO\bin\Debug\POO.exe
+C:\academia\POO\POO\bin\Debug\POO.pdb
+C:\academia\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\academia\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+C:\academia\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\academia\POO\POO\obj\Debug\POO.exe
+C:\academia\POO\POO\obj\Debug\POO.pdb
